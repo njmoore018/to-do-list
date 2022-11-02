@@ -11,9 +11,9 @@ The three pages are a register (user creation page), login (authentication page)
 
 # Development Environment
 
-Python 3.10.4
-Visual Studio Code
-Please ensure you install Django and Crispy Forms before running this program.
+* Python 3.10.4
+* Visual Studio Code
+* Please ensure you install Django and Crispy Forms before running this program.
 
 
 # Useful Websites
