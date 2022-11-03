@@ -1,34 +1,26 @@
 # Overview
+I wrote this program to demonstrate the knowledge and skills gained from studying Python, Django, and web app development. This program can be run on your device by downloading all files into a folder, opening a command prompt while in the same folder as "manage.py" and typing "python manage.py runserver". Then simply copy and paste the local web address into a browser of your choosing.
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+[Demo Video](https://youtu.be/0NuXfmV3-4U)
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+The three pages are a register (user creation page), login (authentication page), and to-do lists that are meant to only be accessible by their individual creator accounts. They automatically transfer between each other within the creation/logging in process but can also be accessed by some of the built in buttons and links (such as "create an account" link from login page.
+
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* Python 3.10.4
+* Visual Studio Code
+* Please ensure you install Django and Crispy Forms before running this program.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Django Official Site](https://www.djangoproject.com/)
+
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix "List Creation" upon user registration being completed.
